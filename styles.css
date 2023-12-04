@@ -45,7 +45,7 @@ header {
 
 .intro {
     height: 90vh;
-    background: url('path_to_hero_image.jpg') no-repeat center center/cover;
+    background: url('profile.jpeg') no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
