@@ -44,7 +44,7 @@ header {
 }
 
 .intro {
-    height: 90vh;
+    height: 50vh;
     background: url('IMG_1148.jpeg') no-repeat center center/cover;
     display: flex;
     flex-direction: column;
