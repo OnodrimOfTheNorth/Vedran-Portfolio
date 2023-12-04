@@ -2,19 +2,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const projects = [
         {
             title: 'Modern House',
-            imageUrl: 'IMG_1139.png',
+            imageUrl: './IMG_1139.png',
             description: 'Sleek and modern residential design with an emphasis on sustainable materials.',
             link: '#'
         },
         {
             title: 'Commercial Complex',
-            imageUrl: 'IMG_1140.png',
+            imageUrl: './IMG_1140.png',
             description: 'An innovative commercial complex combining aesthetics with practical business needs.',
             link: '#'
         },
         {
             title: 'Renovation Project',
-            imageUrl: 'IMG_1141.png',
+            imageUrl: './IMG_1141.png',
             description: 'A bold and sensitive renovation of a historic building.',
             link: '#'
         },
