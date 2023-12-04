@@ -59,7 +59,8 @@ header {
 }
 
 .intro-image {
-    width: 150px; /* Adjust as necessary */
+    width: auto; /* Adjust as necessary */
+    max-width: 400px;
     height: auto;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
